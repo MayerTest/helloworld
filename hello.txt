@@ -3,4 +3,5 @@ today is a good day
 began
 tom is working
 bob say hello to john
+feature-scan
 master-同步到master远程分支
